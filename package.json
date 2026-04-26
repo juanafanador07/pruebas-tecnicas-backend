@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "vitest",
+    "test:anagram": "vitest 01-anagramas",
+    "test:priority-queue": "vitest 02-cola-con-prioridad"
+  },
+  "dependencies": {
+    "vitest": "^4.1.5"
+  },
+  "devDependencies": {
+    "@tsconfig/node-lts": "^24.0.0",
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}
