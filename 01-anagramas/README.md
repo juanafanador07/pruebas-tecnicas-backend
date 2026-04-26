@@ -42,7 +42,7 @@ Con esa `key`, se busca en el `Map<string, string[]>` para obtener el arreglo de
 
 Después, se agrega la palabra al arreglo encontrado.
 
-Al finalizar el recorrido, se transforma el Map<string, string[]> en un arreglo, el cual representa la lista final de grupos de anagramas.
+Al finalizar el recorrido, se transforma el `Map<string, string[]>` en un arreglo, el cual representa la lista final de grupos de anagramas.
 
 ## Ejecución
 
