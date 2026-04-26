@@ -48,6 +48,7 @@ Al finalizar el recorrido, se transforma el `Map<string, string[]>` en un arregl
 
 ```bash
 git clone https://github.com/juanafanador07/pruebas-tecnicas-backend.git
+cd pruebas-tecnicas-backend
 npm install
 npm run test:anagram
 ```

@@ -54,6 +54,7 @@ Se debe tener en cuenta que al momento de desencolar, si la cola queda vacia, se
 
 ```bash
 git clone https://github.com/juanafanador07/pruebas-tecnicas-backend.git
+cd pruebas-tecnicas-backend
 npm install
 npm run test:priority-queue
 ```
